@@ -38,4 +38,6 @@ for miscare in lines:
             score += 6
             score += 1
 
+
+
 print(score)

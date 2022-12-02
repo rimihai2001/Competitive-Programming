@@ -35,4 +35,6 @@ for miscare in lines:
             score += 3
             score += 3
 
+
+
 print(score)
