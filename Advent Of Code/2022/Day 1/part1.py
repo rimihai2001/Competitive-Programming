@@ -1,4 +1,4 @@
-with open('input.txt') as f:
+with open('Advent Of Code/2022/Day 1/input.txt') as f:
     lines = [line[:-1] for line in f]
 
 

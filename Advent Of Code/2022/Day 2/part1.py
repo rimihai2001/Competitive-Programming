@@ -1,4 +1,4 @@
-with open('input.txt') as f:
+with open('Advent Of Code/2022/Day 2/input.txt') as f:
     lines = [line for line in f]
 
 score = 0
